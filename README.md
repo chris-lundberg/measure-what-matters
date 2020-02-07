@@ -7,3 +7,5 @@ The presentation, *What Metrics Matter? A Public Investor's Perspective*, examin
 * Qualitative 
 * Quantitative
 * ESG
+
+These three frameworks are interrelated and should be considered in a holistic decision making process.
